@@ -10,13 +10,13 @@ Customized neurl network based on preceptron for FPGA/ASIC
 
 #### Model ToDo list
 1. Choose train/test dataset
-2. Create functions for model (*all functions shold be in fixed point*)
-1.1 Initilization
-1.2 Forward propogardation
-1.3 Backward propogardation
-1.4 Calculate loss
-1.5 Update weigths
-1.6 Make prediction
+2. Create functions for model (*all functions shold be in fixed point*)  
+1.1 Initilization  
+1.2 Forward propogardation  
+1.3 Backward propogardation  
+1.4 Calculate loss  
+1.5 Update weigths  
+1.6 Make prediction  
 2. Create network model
 3. Train and check network model
 4. Choose checkpoints for validation
