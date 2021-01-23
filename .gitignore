@@ -1,8 +1,10 @@
-*/
+/*
 
 !.gitignore
 !.md
 
-!docs/*
-!dataset/*
-!model/*.py
+!docs/
+!dataset/
+!/model/
+
+**/model/__pycache__/*
