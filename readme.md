@@ -16,11 +16,11 @@ Trained for check picture: cat or not cat.
 * in the future: customize optimizer (Adam, SGD, Nesterov, no-optimizer)
 
 #### Model ToDo list
-~~1. Choose train/test dataset~~
-2. Create functions for model (*all functions should be in fixed point*)  
-~~1.1 Initilization~~
-~~1.2 Forward propogardation~~
-~~1.3 Calculate cost~~
+~~1. Choose train/test dataset~~  
+2. Create functions for model (*all functions should be in fixed point*)    
+~~1.1 Initilization~~  
+~~1.2 Forward propogardation~~  
+~~1.3 Calculate cost~~  
 1.4 Backward propogardation  
 1.5 Calculate loss  
 1.6 Update weigths  
