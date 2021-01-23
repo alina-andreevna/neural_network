@@ -1,0 +1,8 @@
+*/
+
+!.gitignore
+!.md
+
+!docs/*
+!dataset/*
+!model/*.py
