@@ -9,7 +9,6 @@ Trained for check picture: cat or not cat.
 * sim: SystemVerilog
 
 **Features:**
-*
 * variable counts of inputs, layers, layer sizes, etc.
 * variable data_bit_size and coeff_data_size in all levels
 * customize activation functions: RELU or Sigmoid;
@@ -21,9 +20,9 @@ Trained for check picture: cat or not cat.
 ~~1.1 Initilization~~  
 ~~1.2 Forward propogardation~~  
 ~~1.3 Calculate cost~~  
-1.4 Backward propogardation  
-1.5 Calculate loss  
-1.6 Update weigths  
+~~1.4 Backward propogardation~~  
+~~1.5 Calculate loss~~  
+~~1.6 Update weigths~~  
 1.7 Make prediction  
 2. Create network model
 3. Train and check network model
