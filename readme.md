@@ -1,3 +1,5 @@
+# PROJECT IS FROZEN NOW #
+
 ## Multylayer neural network
 
 Customized neurl network based on preceptron for FPGA/ASIC.
